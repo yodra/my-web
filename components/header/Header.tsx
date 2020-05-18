@@ -23,7 +23,7 @@ const SocialMedia = styled.div`
   font-size: 35px;
 `;
 
-const Link = styled.a`
+const A = styled.a`
   //text-shadow: 0 0 4px rgba(0,0,0,0.5); TODO probar a ponerlo en el icono, si no quitarlo del nombre tb
   color: inherit;
   margin: 8px;
@@ -34,15 +34,15 @@ export const Header: FC = () => {
     return <Container>
       <H1>Yodra López</H1>
       <SocialMedia>
-        <Link href="https://www.twitter.com/yodralopez" target="_blank">
+        <A href="https://www.twitter.com/yodralopez" target="_blank">
           <FontAwesomeIcon icon={faTwitter}/>
-        </Link>
-        <Link href="https://www.twitter.com/yodralopez" target="_blank">
+        </A>
+        <A href="https://www.twitter.com/yodralopez" target="_blank">
           <FontAwesomeIcon icon={faLinkedinIn}/>
-        </Link>
-        <Link href="https://www.twitter.com/yodralopez" target="_blank">
+        </A>
+        <A href="https://www.twitter.com/yodralopez" target="_blank">
           <FontAwesomeIcon icon={faEnvelope}/>
-        </Link>
+        </A>
       </SocialMedia>
     </Container>
 };

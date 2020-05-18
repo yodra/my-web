@@ -7,15 +7,15 @@ const A = styled.a`
 `;
 
 const Img = styled.img`
-  width: 20%;
+  width: 35%;
 `;
 
 interface Props {
   data: ArticleModel;
 }
 
-export const Downloadable: FC<Props> = ({ data: { name, src, image, filename } }) => {
-  return <A href={src} download={filename}>
+export const Link: FC<Props> = ({ data: { name, src, image } }) => {
+  return <A href={src} target="_blank">
     <Img src={image} alt={name}/>
   </A>;
 };
