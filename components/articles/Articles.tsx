@@ -4,7 +4,7 @@ import { ArticleModel } from '../../data/articles';
 import Article from '../article/Article';
 
 const Container = styled.div`
-  margin-top: 200px;
+  margin-top: 150px;
   text-align: center;
 `;
 

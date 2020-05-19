@@ -7,14 +7,14 @@ const A = styled.a`
 `;
 
 const Img = styled.img`
-  width: 35%;
+  width: 30%;
 `;
 
 interface Props {
   data: ArticleModel;
 }
 
-export const Link: FC<Props> = ({ data: { name, src, image } }) => {
+export const ImageLink: FC<Props> = ({ data: { name, src, image } }) => {
   return <A href={src} target="_blank">
     <Img src={image} alt={name}/>
   </A>;

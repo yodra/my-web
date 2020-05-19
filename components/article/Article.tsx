@@ -2,7 +2,7 @@ import React, { FC } from 'react';
 import { ArticleModel } from '../../data/articles';
 import { Downloadable } from '../downloadable/Downloadable';
 import { Video } from '../video/Video';
-import { Link } from '../link/Link';
+import { ImageLink } from '../imageLink/ImageLink';
 
 interface ArticleProps {
   data: ArticleModel;
@@ -14,8 +14,8 @@ const Article: FC<ArticleProps> = ({ data }) => {
       return <Downloadable data={data}/>;
     case 'video':
       return <Video data={data}/>;
-    case 'link':
-      return <Link data={data}/>
+    case 'imageLink':
+      return <ImageLink data={data}/>
   }
   return <div>{data.name}</div>;
 };
