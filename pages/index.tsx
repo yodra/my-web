@@ -15,8 +15,11 @@ const Body = styled.div`
   overflow-y: scroll;
   display: flex;
   flex-direction: column;
-  padding: 30px;
+  padding: 1.5em;
   box-sizing: border-box;
+  @media (max-width: 465px) {
+    padding: 1em;
+  }
 `;
 
 export const Profile: FC = () => {

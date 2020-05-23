@@ -10,11 +10,21 @@ const Container = styled.div`
   max-width: 960px;
   margin-right: auto;
   margin-left: auto;
+  @media (max-width: 465px) {
+    padding: 0;
+  }
 `;
 
 const Group = styled.div`
   columns: 3;
   column-gap: 10px;
+  @media (width: 768px) {
+    columns: 2;
+  }
+  @media (max-width: 465px) {
+    columns: 1;
+  }
+
 `;
 
 interface ArticlesProps {
