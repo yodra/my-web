@@ -18,6 +18,13 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   text-align: center;
+  @media (width: 768px) {
+    width: 40vw;
+  }
+  @media (max-width: 425px) {
+    width: 100vw;
+  }
+
 `;
 
 const SocialMedia = styled.div`

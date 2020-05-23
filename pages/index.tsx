@@ -8,6 +8,9 @@ import { articles } from '../data/articles';
 const Container = styled.div`
   display: flex;
   font-family: 'Fira Code', monospace;
+  @media (max-width: 425px) {
+    flex-direction: column;
+  }
 `;
 
 const Body = styled.div`
@@ -20,6 +23,10 @@ const Body = styled.div`
   box-sizing: border-box;
   @media (max-width: 768px) {
     padding: 1em;
+    width: 60vw;
+  }
+  @media (max-width: 425px) {
+    width: 100vw;
   }
 `;
 
