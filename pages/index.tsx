@@ -8,7 +8,8 @@ import { articles } from '../data/articles';
 const Container = styled.div`
   display: flex;
   font-family: 'Fira Code', monospace;
-  font-smooth: auto;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
   @media (max-width: 425px) {
     flex-direction: column;
   }
