@@ -10,7 +10,7 @@ const Container = styled.div`
   max-width: 960px;
   margin-right: auto;
   margin-left: auto;
-  @media (max-width: 465px) {
+  @media (max-width: 768px) {
     padding: 0;
   }
 `;
@@ -18,7 +18,7 @@ const Container = styled.div`
 const Group = styled.div`
   columns: 3;
   column-gap: 10px;
-  @media (width: 768px) {
+  @media (max-width: 1024px) {
     columns: 2;
   }
   @media (max-width: 465px) {

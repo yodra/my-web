@@ -18,7 +18,7 @@ const Body = styled.div`
   flex-direction: column;
   padding: 1.5em;
   box-sizing: border-box;
-  @media (max-width: 465px) {
+  @media (max-width: 768px) {
     padding: 1em;
   }
 `;
