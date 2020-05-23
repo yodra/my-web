@@ -6,6 +6,8 @@ const Content = styled.a`
   overflow: hidden;
   border-radius: 4px;
   vertical-align: baseline;
+  color: rgb(64,133,146);
+  text-decoration: none;
 `;
 
 const Img = styled.img`
