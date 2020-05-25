@@ -18,7 +18,7 @@ const Container = styled.div`
 const Group = styled.div`
   columns: 3;
   column-gap: 10px;
-  @media (max-width: 1024px) {
+  @media (max-width: 1080px) {
     columns: 2;
   }
   @media (max-width: 465px) {
