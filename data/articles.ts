@@ -7,7 +7,6 @@ export interface ArticleModel {
   image: string;
 }
 
-
 export const articles: ArticleModel[] = [
   {
     id: '1',
@@ -38,5 +37,11 @@ export const articles: ArticleModel[] = [
     title: 'Artículo: Afrontando un MVP con impacto social',
     link: 'https://leanmind.es/es/blog/afrontar-mvp/',
     image: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=2604&q=80'
+  },
+  {
+    id: '6',
+    title: 'Tips: Oratoria',
+    link: 'https://leanmind.es/es/blog/taller-de-oratoria/',
+    image: '/img-tips-oratoria.png',
   }
 ];
