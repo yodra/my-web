@@ -36,7 +36,7 @@ export const Header: FC = () => {
     <Title>Yodra López</Title>
     <SocialMedia>
       <IconLink src={'https://www.twitter.com/yodralopez'} icon={faTwitter} target="_blank"/>
-      <IconLink src={'www.linkedin.com/in/yodralopez'} icon={faLinkedinIn} target="_blank"/>
+      <IconLink src={'https://www.linkedin.com/in/yodralopez'} icon={faLinkedinIn} target="_blank"/>
       <IconLink src={'mailto:yodralopez@gmail.com'} icon={faEnvelope}/>
     </SocialMedia>
   </Container>;

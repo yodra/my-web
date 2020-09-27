@@ -14,10 +14,10 @@ export const Bio: FC = () => {
     <p>Lo paso fatal trabajando desde casa en <Link href="https://twitter.com/canarias_es" target="_blank">@Canarias</Link> 🏝.</p>
     <p>Intento dar a conocer estas prácticas tan extrañas como XP, TDD o Refactoring a la
       siguiente generación de developers, en cursos de FullStack y FrontEnd de <Link href="https://twitter.com/eoi" target="_blank">@EOI</Link>.</p>
-    <p>Y cómo me encanta esto de luchar contra corriente soy Co-organizadora en la comunidad de mujeres
+    <p>Y como me encanta luchar por lo que creo soy Co-organizadora en la comunidad de mujeres
       desarrolladoras <Link href="https://twitter.com/adalovedev" target="_blank">@adalovedev</Link>. 💪</p>
     <p>También me gusta contar batallitas 🤺 como las abuelas 👵👵, así que de vez en cuando doy alguna charla que
       puedes encontrar en esta web.</p>
-    <p>¡¡<Link href="https://leanmind.es" target="_blank">LeanMinder</Link> y <Link href="http://adalovedev.es" target="_blank">AdaLover</Link>!!</p>
+    <p>¡¡<Link href="https://leanmind.es" target="_blank">LeanMinder</Link> y <Link href="https://adalovedev.es" target="_blank">AdaLover</Link>!!</p>
   </div>;
 };
