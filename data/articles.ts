@@ -9,6 +9,12 @@ export interface ArticleModel {
 
 export const articles: ArticleModel[] = [
   {
+    id: '8',
+    title: 'Cheat sheet: Top 10 Refactoring',
+    link: 'refactoring-cheatsheet.pdf',
+    image: '/img-refactoring.jpg',
+  },
+  {
     id: '7',
     title: 'Artículo: Docker + NodeJS + Buenas Prácticas',
     link: 'https://softwarecrafters.io/devops/docker-nodejs-buenas-practicas',
@@ -18,7 +24,7 @@ export const articles: ArticleModel[] = [
     id: '5',
     title: 'Tips: Oratoria',
     link: 'https://leanmind.es/es/blog/taller-de-oratoria/',
-    image: '/img-tips-oratoria.png',
+    image: '/img-tips-oratoria.jpg',
   },
   {
     id: '6',
