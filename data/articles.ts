@@ -9,6 +9,12 @@ export interface ArticleModel {
 
 export const articles: ArticleModel[] = [
   {
+    id: '9',
+    title: 'Charla: Essentials skills',
+    link: 'https://youtu.be/pP5wnvZCQZE?t=5789',
+    image: '/adassa.png',
+  },
+  {
     id: '8',
     title: 'Cheat sheet: Top 10 Refactoring',
     link: 'refactoring-cheatsheet.pdf',
