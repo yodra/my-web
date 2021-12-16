@@ -18,6 +18,6 @@ export const Bio: FC = () => {
       desarrolladoras <Link href="https://twitter.com/adalovedev" target="_blank">@adalovedev</Link>. 💪</p>
     <p>También me gusta contar batallitas 🤺 como las abuelas 👵👵, así que de vez en cuando doy alguna charla que
       puedes encontrar en esta web.</p>
-    <p>¡¡<Link href="https://leanmind.es" target="_blank">LeanMinder</Link> y <Link href="https://adalovedev.es" target="_blank">AdaLover</Link>!!</p>
+    <p>¡¡<Link href="https://www.theagilemonkeys.com/" target="_blank">Monkey</Link> 🐒 y <Link href="https://adalovedev.es" target="_blank">AdaLover</Link> 💜!!</p>
   </div>;
 };

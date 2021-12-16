@@ -8,8 +8,7 @@ import { IconLink } from '../iconLink/IconLink';
 const Container = styled.div`
   width: 50vw;
   height: 100vh;
-  //background-image: linear-gradient(rgba(76,129,139,0.64), rgba(76,129,139,0.64)), url('/photo-min.jpg');
-  background-image: linear-gradient(rgba(132,79,22,0.55), rgba(132,79,22,0.55)), url('/photo-min.jpg');
+  background-image: linear-gradient(rgba(76,129,139,0.64), rgba(76,129,139,0.64)), url('/photo-min.jpg');
   background-position: center;
   background-size: cover;
   color: #FFF;
