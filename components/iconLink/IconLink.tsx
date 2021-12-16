@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import styled from '@emotion/styled';
 
 const A = styled.a`
-  //text-shadow: 0 0 4px rgba(0,0,0,0.5); TODO probar a ponerlo en el icono, si no quitarlo del nombre tb
+  //text-shadow: 0 0 4px rgba(0,0,0,0.5);
   color: inherit;
   margin: 8px;
 `;
