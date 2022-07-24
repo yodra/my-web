@@ -28,6 +28,8 @@ const Container = styled.div`
 
 const SocialMedia = styled.div`
   font-size: 35px;
+  display: flex;
+  gap: 0.5rem;
 `;
 
 const Img = styled.img`

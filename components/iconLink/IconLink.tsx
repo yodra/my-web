@@ -3,10 +3,12 @@ import React, { FC } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import styled from '@emotion/styled';
 
-const A = styled.a`
-  //text-shadow: 0 0 4px rgba(0,0,0,0.5);
+const Link = styled.a`
   color: inherit;
-  margin: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
 `;
 
 interface Props {
@@ -15,8 +17,9 @@ interface Props {
   target?: string;
 }
 
-export const IconLink: FC<Props> = ({ src, icon, target }) => {
-  return <A href={src} target={target}>
+export const IconLink: FC<Props> = ({ src, icon, target, children }) => {
+  return <Link href={src} target={target}>
     <FontAwesomeIcon icon={icon}/>
-  </A>;
+    {children}
+  </Link>;
 };
