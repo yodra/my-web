@@ -8,6 +8,12 @@ export interface ArticleModel {
 
 export const articles: ArticleModel[] = [
   {
+    id: '11',
+    title: 'Meetup: Refactorizar sin test 😱 y no morir en el intento',
+    resourceLink: 'https://www.youtube.com/embed/PxUKq1yelRo',
+    image: 'https://secure.meetupstatic.com/photos/event/7/f/5/9/highres_508652601.jpeg',
+  },
+  {
     id: '10',
     title: 'Charla: Refactorizar sin test 😱 y no morir en el intento',
     resourceLink: 'https://youtu.be/Eu0aA2F_Vyo?t=11129',
