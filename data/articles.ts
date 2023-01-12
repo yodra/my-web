@@ -16,9 +16,9 @@ export const articles: ArticleModel[] = [
   {
     id: '10',
     title: 'Charla: Refactorizar sin test 😱 y no morir en el intento',
-    resourceLink: 'https://youtu.be/Eu0aA2F_Vyo?t=11129',
-    slidesLink: 'https://docs.google.com/presentation/d/1tvtAP5jhetmMXvtyZ5VnOFez7PSC3beVwWA2yQHlQns/edit?usp=sharing',
-    image: '/Refactorizar_sin_test_y_no_morir_en_el_intento.png',
+    resourceLink: 'https://www.youtube.com/watch?v=VCOOmh9-MbA',
+    slidesLink: 'https://docs.google.com/presentation/d/1xfJIRvWxIZKEsMRCOlI18Udwiv23w2lQdHPC1H_xacM/edit?usp=sharing',
+    image: '/miduconf-22.png',
   },
   {
     id: '9',
