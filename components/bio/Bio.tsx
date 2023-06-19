@@ -1,13 +1,19 @@
 import React, { FC } from 'react';
 import styled from '@emotion/styled';
 
+const Container = styled.div`
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+`;
+
 const Link = styled.a`
   color: rgb(64,133,146);
   text-decoration: none;
 `;
 
 export const Bio: FC = () => {
-  return <div>
+  return <Container>
     <h2>¿Qué hago?</h2>
     <p>
       Soy desarrolladora de software y hago especial hincapié en desarrollar con buenas prácticas y testing.
@@ -48,5 +54,5 @@ export const Bio: FC = () => {
       <Link href="https://www.theagilemonkeys.com/" target="_blank">Monkey</Link> 🐒,
       <Link href="https://www.twitch.tv/codingiscaring" target="_blank"> Streamer</Link > 👯‍♀️
       y <Link href="https://adalovedev.es" target="_blank">AdaLover</Link> 💜!!</p>
-  </div>;
+  </Container>;
 };

@@ -6,7 +6,7 @@ import styled from '@emotion/styled';
 import { IconLink } from '../iconLink/IconLink';
 
 const Container = styled.div`
-  width: 50vw;
+  width: 25vw;
   height: 100vh;
   background-image: linear-gradient(rgba(35, 46, 49, 0.64), rgba(50, 77, 82, 0.64)), url('/fondo.jpeg');
   background-position: center;
@@ -27,13 +27,13 @@ const Container = styled.div`
 `;
 
 const SocialMedia = styled.div`
-  font-size: 35px;
+  font-size: 25px;
   display: flex;
   gap: 0.5rem;
 `;
 
 const Img = styled.img`
-  width: 30%;
+  width: 40%;
 `;
 
 export const Header: FC = () => {

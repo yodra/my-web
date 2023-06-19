@@ -8,8 +8,14 @@ export interface ArticleModel {
 
 export const articles: ArticleModel[] = [
   {
+    id: '12',
+    title: 'Charla: We ♥️ Legacy Code',
+    resourceLink: 'https://www.youtube.com/watch?v=ilnUn4O9hsU',
+    image: '/t3chfest2023.jpg',
+  },
+  {
     id: '11',
-    title: 'Meetup: Refactorizar sin test 😱 y no morir en el intento',
+    title: 'Meetup: Refactoring con Johan Cortes',
     resourceLink: 'https://www.youtube.com/embed/PxUKq1yelRo',
     image: 'https://secure.meetupstatic.com/photos/event/7/f/5/9/highres_508652601.jpeg',
   },
