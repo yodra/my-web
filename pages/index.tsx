@@ -37,7 +37,6 @@ export const Profile: FC = () => {
     <Header/>
     <Body>
       <Bio/>
-      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="yodralopezh" data-color="#408592" data-emoji="🍺"  data-font="Inter" data-text="Buy me a beer" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
       <Articles data={articles}/>
     </Body>
   </Container>;
