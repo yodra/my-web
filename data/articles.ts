@@ -8,6 +8,12 @@ export interface ArticleModel {
 
 export const articles: ArticleModel[] = [
   {
+    id: '13',
+    title: 'Cerrando una etapa, pero no el camino.',
+    resourceLink: '/CerrandoUnaEtapa',
+    image: '/adalovedev.jpeg',
+  },
+  {
     id: '12',
     title: 'Charla: We ♥️ Legacy Code',
     resourceLink: 'https://www.youtube.com/watch?v=ilnUn4O9hsU',

@@ -87,8 +87,8 @@ const CerrandoUnaEtapa: FC = () => {
       </p>
       <p>
         Un evento organizado por mujeres, con mujeres ponentes y abierto a todo el que quisiera participar. Algunas iniciativas que para nosotras
-        son imprescindibles en este evento fueron: la conciliación, la visibilidad del talento local, la comodidad de los asistentes y por supuesto que
-        fuera un espacio seguro para todos.
+        son imprescindibles en este evento fueron: la conciliación, la visibilidad del talento local y de la diversidad, el cuidado al detalle para que
+        quien viniese se sintiese como en casa y, por supuesto, que fuera un espacio seguro para todas las personas.
       </p>
       <p>
         En <strong><Link href="https://twitter.com/search?q=%23AdaLoversConf19&src=hashtag_click" target="_blank">#AdaLoversConf19 </Link></strong>
@@ -100,20 +100,21 @@ const CerrandoUnaEtapa: FC = () => {
         <strong><Link href="https://twitter.com/search?q=%23AdaLoversConf19&src=hashtag_click" target="_blank">#AdaLoversConf19</Link></strong> fue increíble 😍,
         recibimos muy buen feedback, no hay más que ver el <strong><Link href="https://www.youtube.com/watch?v=Fz2RdjA8-Uc" target="_blank">video resumen</Link></strong>. Pensamos que podríamos intentar superarnos en 2020.
         Pero, como ya saben, llegó la pandemia justo cuando empezábamos con los preparativos.
-        Tras varios meses dándole vueltas decidimos cancelar el evento ese año con la intención de retomarlo en 2021, pero aún el tema COVID no estaba tan controlado
-        (wow cuánto tiempo pasamos encerradas/distanciadas 🙈) así que tampoco pudimos hacerlo de forma presencial, pero no podíamos cancelar y ya.
+        Tras varios meses dándole vueltas decidimos cancelar el evento ese año con la intención de retomarlo en 2021.
+        Pero aún el tema COVID no estaba tan controlado (wow cuánto tiempo pasamos encerradas/distanciadas 🙈) así que tampoco pudimos hacerlo de forma presencial...
+        ¡Pero no podíamos cancelar otra vez y ya!
       </p>
       <p>
         <strong><Link href="https://twitter.com/search?q=%23AdaLoversConf21&src=hashtag_click" target="_blank">#AdaLoversConf21</Link></strong> fue un pequeño evento on-line con cuatro maravillosas ponentes. Este evento podíamos hacerlo a coste cero, sólo con nuestro tiempo y
         el de las ponentes, pero igualmente decidimos recaudar dinero y donarlo a una causa muy importante, la lucha contra el cáncer de mama.
-        Conseguimos más de 4800€ para la asociación Ámate ❤️.
+        Conseguimos más de 4800€ para la asociación <strong><Link href="https://amate-tenerife.es/" target="_blank">Ámate</Link></strong> ❤️.
       </p>
       <p>
-        <strong><Link href="https://twitter.com/search?q=%23AdaLoversConf22&src=hashtag_click" target="_blank">#AdaLoversConf22</Link></strong> trás dos años con muchísimas ganas de volver hacer un evento presencial lo dimos todo en la organización del 2022,
+        <strong><Link href="https://twitter.com/search?q=%23AdaLoversConf22&src=hashtag_click" target="_blank">#AdaLoversConf22</Link></strong> tras dos años con muchísimas ganas de volver hacer un evento presencial lo dimos todo en la organización del 2022,
         contábamos nuevamente con 18 crackas de distintas áreas del sector. Queríamos dar un toque diferente al evento y preparamos:
         <ul>
           <li>
-            Un Discussion Idea Together (DIT) en el que entre todos debatiríamos temas tan importantes como la hiring, carrera profesional y diversidad de
+            Un Discussion Idea Together (DIT) en el que entre todos debatiríamos temas tan importantes como hiring, carrera profesional y diversidad de
             género en estudios del sector TIC.
           </li>
           <li>
@@ -133,7 +134,7 @@ const CerrandoUnaEtapa: FC = () => {
         (todavía tengo grabada en mi retina la cara de <Link href="https://twitter.com/IsaAguilarUndi" target="_blank"> @Isa</Link> cuando me llamó el Vicerrector con la noticia 🥺),
         pero tras unos minutos de bajón decidimos replantear el evento, emitimos un comunicado cancelando el evento presencial e invitamos a
         todos los participantes, sponsors y ponentes a asistir esa misma tarde a unas horas de networking, dando así una oportunidad de disfrutar
-        del una pequeña parte de lo que habíamos preparado con tanto esfuerzo. Las charlas las pasamos a modalidad on-line, “pivotamos”
+        de una pequeña parte de lo que habíamos preparado con tanto esfuerzo. Las charlas las pasamos a modalidad on-line, “pivotamos”
         de un evento presencial a uno semipresencial en cuestión de horas, y aún hoy nos siguen
         llegando comentarios maravillosos de la gestión que hicimos 🥰.
       </p>
@@ -143,7 +144,8 @@ const CerrandoUnaEtapa: FC = () => {
         y no le decimos a una niña eso de “los robots son para tu hermano…”.
       </p>
       <p>
-        También están las AdaSessions, charlas mensuales internas para la comunidad que más tarde publicamos en Youtube siempre que la ponente quiera.
+        También están las <strong><Link href="https://www.youtube.com/watch?v=YrjyFwVyvwg&list=PLYH4QFDGRcPQY0VjuuhccvTeYA_7yPf1E" target="_blank">AdaSessions</Link></strong>,
+        charlas mensuales internas para la comunidad que más tarde publicamos en Youtube siempre que la ponente quiera.
         ¿Por qué son internas? en su momento decidimos hacerlo así para generar ese espacio seguro, que ninguna asistente se sintiera intimidada
         a la hora de compartir experiencias o hacer cualquier tipo de pregunta.
       </p>
@@ -158,8 +160,8 @@ const CerrandoUnaEtapa: FC = () => {
         lucha no ha terminado, seguiré apoyando siempre que pueda este tipo de iniciativas mientras sea necesario.
       </p>
       <p>
-        Así que para terminar, después de unos meses de trámites, tengo que decir que esta transición se ha completado legalmente y que la nueva junta
-        directiva continuará con la organización de la asociación.
+        Así que para terminar, después de varios meses de trámites, tengo que decir que esta transición se ha completado legalmente y que la nueva junta,
+        como ya vienen haciendo desde Abril, tras la elección la misma por parte de las socias, continuará con la organización de la asociación.
       </p>
       <p><strong>¡¡Muchas gracias a todas!! ❤️💪</strong></p>
       <Back>
