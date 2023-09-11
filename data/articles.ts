@@ -8,6 +8,13 @@ export interface ArticleModel {
 
 export const articles: ArticleModel[] = [
   {
+    id: '14',
+    title: 'Taller: Testing untestable code',
+    resourceLink: 'https://pulpocon.es/workshop/yondra-lopez',
+    slidesLink: 'https://docs.google.com/presentation/d/1QL3HY4r1Cuu4-kKsEoVTPV-l4vc7q3xtfwf15pYF9yg/edit?usp=sharing',
+    image: '/pulpocon23.jpeg',
+  },
+  {
     id: '13',
     title: 'Cerrando una etapa, pero no el camino.',
     resourceLink: '/CerrandoUnaEtapa',
