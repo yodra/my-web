@@ -52,7 +52,7 @@ export const Bio: FC = () => {
     </p>
     <p>
       Software engineer @ <Link href="https://www.linkedin.com/company/science4tech/" target="_blank">Science4Tech</Link> 👩‍🔬,
-      Co-founder @ <Link href="https://adalovedev.es" target="_blank">AdaLoveDev</Link> 💜💪,
+      Co-founder @ <Link href="https://www.linkedin.com/company/adalovedev/" target="_blank">AdaLoveDev</Link> 💜💪,
       Co-streamer @ <Link href="https://www.twitch.tv/codingiscaring" target="_blank"> CodingIsCaring</Link > 👯‍♀️
     </p>
   </Container>;
